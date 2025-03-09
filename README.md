@@ -59,6 +59,5 @@ Focus retention efforts on customers with frequent customer service calls.
 
 Customers who call customer service frequently should be monitored as potential churn risks. A high number of calls could indicate unresolved issues—these customers might leave if their problems are not addressed properly.
 
-![image](https://github.com/user-attachments/assets/95d1c2b5-359b-4cd6-b406-7a69041687f9)
 
 
